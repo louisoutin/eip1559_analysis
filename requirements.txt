@@ -1,0 +1,11 @@
+notebook
+numpy
+pandas
+dask[dataframe, distributed]
+matplotlib
+plotly
+seaborn
+google-cloud-bigquery
+google-cloud-bigquery-storage
+bokeh
+pyarrow
