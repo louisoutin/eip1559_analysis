@@ -3,6 +3,10 @@
 Can we estimate the economic impact of EIP-1559 on miners? 
 This repository try to estimate the loss of miners' revenue coming from transactions fees, using Ethereum historical data.
 
+This readme provide an overview of the results, but you can visit the
+notebook there for more detailed information:
+https://github.com/louisoutin/eip1559_analysis/blob/master/notebooks/1_gas_analysis.ipynb
+
 ## Analysis overview
 
 This analysis uses Ethereum historical (gas prices) data from Google BigQuery. Based on the distribution of the gas
