@@ -80,6 +80,8 @@ Example on high tips overpayment blocks:
 
 ## Results
 
+**Note: the results compare ONLY revenues from transactions fees. The block rewards are not taken into account (they would not change)**
+
 We compare the actual miners revenue VS the estimated maximum revenue VS the estimated revenue.
 
 - the estimated maximum revenue is the estimation without taking into account the reduction
